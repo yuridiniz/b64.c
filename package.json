@@ -1,6 +1,6 @@
 {
   "name": "b64",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repo": "littlstar/b64.c",
   "description": "Base64 encode/decode",
   "keywords": ["base", "64", "crypto"],
